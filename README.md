@@ -16,12 +16,3 @@ All simulations are done with 10,000 trials.
 3. Click **Source** to run all simulations.
 4. Plots will appear in RStudio and be saved to the `outputs/` folder.
 
-## Sample Plots
-Regular Dice  
-![Regular dice](outputs/dice_regular.png)
-
-Trick Dice  
-![Trick dice](outputs/dice_trick.png)
-
-Sicherman Dice  
-![Sicherman dice](outputs/dice_sicherman.png)
